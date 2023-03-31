@@ -1,0 +1,9 @@
+h1{
+    font-size: 60px;
+    background-color: aqua;
+}
+p#task{
+    background-color: rgb(145, 65, 211);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
